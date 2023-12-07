@@ -1,7 +1,7 @@
 
- VMProtect 3.5.1 Fortification Hub 🛡️
+# VMProtect 3.5.1 Fortification Hub 🛡️
 
-VMProtect Guardian 🚀
+## VMProtect Guardian 🚀
 
 VMProtect stands as an unyielding shield, defending executable code against reverse engineering, cracking, and unauthorized modifications. A stalwart guardian in the gaming realm, it secures game engines, ensuring the sanctity of game logic and assets through code virtualization, obfuscation, and encryption techniques.
 
@@ -23,17 +23,13 @@ VMProtect stands as an unyielding shield, defending executable code against reve
   
 - Bestows a secure licensing talisman, guiding the righteous path of game distribution and monetization.
 
-##📋 Overview
+## 📋 Overview
 
 This repository serves as the bastion of VMProtect 3.5.1—a revered solution for fortifying code. It orchestrates a dance within a virtual machine, boasting a non-standard architecture—a celestial puzzle for those who dare to analyze and crack.
 
 ## 📂 Contents
 
 The master branch contains the repository's heart—a trove of files and documentation, the arsenal for VMProtect 3.5.1.
-
-## 🌐 Additional Resources
-
-For in-depth insights into game security and development, explore [awesome-game-security](https://github.com/gmh5225/awesome-game-security) by the illustrious user `gmh5225`.
 
 ## 🤝 Contribution
 
